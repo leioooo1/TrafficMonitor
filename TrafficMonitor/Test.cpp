@@ -81,3 +81,4 @@ void CTest::TestDate()
     int week = d.week();
     int a = 0;
 }
+
