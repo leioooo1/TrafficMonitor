@@ -72,7 +72,6 @@ void CTest::TestPlugin()
     }
 }
 
-
 void CTest::TestDate()
 {
     Date d;
